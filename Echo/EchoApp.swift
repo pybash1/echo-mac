@@ -10,8 +10,10 @@ import SwiftUI
 @main
 struct EchoApp: App {
     var body: some Scene {
-        WindowGroup {
+        MenuBarExtra {
             ContentView()
+        } label : {
+            Label("Echo", systemImage: "arrow.right.doc.on.clipboard")
         }
     }
 }

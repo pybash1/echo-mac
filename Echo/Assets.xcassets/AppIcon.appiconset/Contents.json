@@ -1,51 +1,61 @@
 {
   "images" : [
     {
+      "filename" : "arrow.right.page.on.clipboard.png",
       "idiom" : "mac",
       "scale" : "1x",
       "size" : "16x16"
     },
     {
+      "filename" : "arrow.right.page.on.clipboard 2.png",
       "idiom" : "mac",
       "scale" : "2x",
       "size" : "16x16"
     },
     {
+      "filename" : "arrow.right.page.on.clipboard 3.png",
       "idiom" : "mac",
       "scale" : "1x",
       "size" : "32x32"
     },
     {
+      "filename" : "arrow.right.page.on.clipboard 1.png",
       "idiom" : "mac",
       "scale" : "2x",
       "size" : "32x32"
     },
     {
+      "filename" : "arrow.right.page.on.clipboard 4.png",
       "idiom" : "mac",
       "scale" : "1x",
       "size" : "128x128"
     },
     {
+      "filename" : "arrow.right.page.on.clipboard 5.png",
       "idiom" : "mac",
       "scale" : "2x",
       "size" : "128x128"
     },
     {
+      "filename" : "arrow.right.page.on.clipboard 6.png",
       "idiom" : "mac",
       "scale" : "1x",
       "size" : "256x256"
     },
     {
+      "filename" : "arrow.right.page.on.clipboard 7.png",
       "idiom" : "mac",
       "scale" : "2x",
       "size" : "256x256"
     },
     {
+      "filename" : "arrow.right.page.on.clipboard 8.png",
       "idiom" : "mac",
       "scale" : "1x",
       "size" : "512x512"
     },
     {
+      "filename" : "arrow.right.page.on.clipboard 9.png",
       "idiom" : "mac",
       "scale" : "2x",
       "size" : "512x512"
